@@ -1,0 +1,57 @@
+Grid space: 1
+Number of pockets: 3
+Density: 0.5
+SSS threshold: 6
+Cannot assign radius for AMP:P
+Cannot assign radius for AMP:O1P
+Cannot assign radius for AMP:O2P
+Cannot assign radius for AMP:O3P
+Cannot assign radius for AMP:O5*
+Cannot assign radius for AMP:C5*
+Cannot assign radius for AMP:C4*
+Cannot assign radius for AMP:O4*
+Cannot assign radius for AMP:C3*
+Cannot assign radius for AMP:O3*
+Cannot assign radius for AMP:C2*
+Cannot assign radius for AMP:O2*
+Cannot assign radius for AMP:C1*
+Cannot assign radius for AMP:N9
+Cannot assign radius for AMP:C8
+Cannot assign radius for AMP:N7
+Cannot assign radius for AMP:C5
+Cannot assign radius for AMP:C6
+Cannot assign radius for AMP:N6
+Cannot assign radius for AMP:N1
+Cannot assign radius for AMP:C2
+Cannot assign radius for AMP:N3
+Cannot assign radius for AMP:C4
+Cannot assign radius for AMP:P
+Cannot assign radius for AMP:O1P
+Cannot assign radius for AMP:O2P
+Cannot assign radius for AMP:O3P
+Cannot assign radius for AMP:O5*
+Cannot assign radius for AMP:C5*
+Cannot assign radius for AMP:C4*
+Cannot assign radius for AMP:O4*
+Cannot assign radius for AMP:C3*
+Cannot assign radius for AMP:O3*
+Cannot assign radius for AMP:C2*
+Cannot assign radius for AMP:O2*
+Cannot assign radius for AMP:C1*
+Cannot assign radius for AMP:N9
+Cannot assign radius for AMP:C8
+Cannot assign radius for AMP:N7
+Cannot assign radius for AMP:C5
+Cannot assign radius for AMP:C6
+Cannot assign radius for AMP:N6
+Cannot assign radius for AMP:N1
+Cannot assign radius for AMP:C2
+Cannot assign radius for AMP:N3
+Cannot assign radius for AMP:C4
+Grid  Size: (69 83 65)
+Grid origin: (-34 -41 -32)
+Mass center: (32.0489 32.2125 16.2751)
+Number of grid points: 372255
+Number of redundant pockets 1574
+Done!
+Total used time: 5.05001 seconds

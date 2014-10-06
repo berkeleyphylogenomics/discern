@@ -1,0 +1,2126 @@
+vertices=327	edges=1792
+Reading vertex	4
+Reading vertex	5
+Reading vertex	6
+Reading vertex	7
+Reading vertex	8
+Reading vertex	9
+Reading vertex	10
+Reading vertex	11
+Reading vertex	12
+Reading vertex	13
+Reading vertex	14
+Reading vertex	15
+Reading vertex	16
+Reading vertex	17
+Reading vertex	18
+Reading vertex	19
+Reading vertex	20
+Reading vertex	21
+Reading vertex	22
+Reading vertex	23
+Reading vertex	24
+Reading vertex	25
+Reading vertex	26
+Reading vertex	27
+Reading vertex	28
+Reading vertex	29
+Reading vertex	30
+Reading vertex	31
+Reading vertex	32
+Reading vertex	33
+Reading vertex	34
+Reading vertex	35
+Reading vertex	36
+Reading vertex	37
+Reading vertex	38
+Reading vertex	39
+Reading vertex	40
+Reading vertex	41
+Reading vertex	42
+Reading vertex	43
+Reading vertex	44
+Reading vertex	45
+Reading vertex	46
+Reading vertex	47
+Reading vertex	48
+Reading vertex	49
+Reading vertex	50
+Reading vertex	51
+Reading vertex	52
+Reading vertex	53
+Reading vertex	54
+Reading vertex	55
+Reading vertex	56
+Reading vertex	57
+Reading vertex	58
+Reading vertex	59
+Reading vertex	60
+Reading vertex	61
+Reading vertex	62
+Reading vertex	63
+Reading vertex	64
+Reading vertex	65
+Reading vertex	66
+Reading vertex	67
+Reading vertex	68
+Reading vertex	69
+Reading vertex	70
+Reading vertex	71
+Reading vertex	72
+Reading vertex	73
+Reading vertex	74
+Reading vertex	75
+Reading vertex	76
+Reading vertex	77
+Reading vertex	78
+Reading vertex	79
+Reading vertex	80
+Reading vertex	81
+Reading vertex	82
+Reading vertex	83
+Reading vertex	84
+Reading vertex	85
+Reading vertex	86
+Reading vertex	87
+Reading vertex	88
+Reading vertex	89
+Reading vertex	90
+Reading vertex	91
+Reading vertex	92
+Reading vertex	93
+Reading vertex	94
+Reading vertex	95
+Reading vertex	96
+Reading vertex	97
+Reading vertex	98
+Reading vertex	99
+Reading vertex	100
+Reading vertex	101
+Reading vertex	102
+Reading vertex	103
+Reading vertex	104
+Reading vertex	105
+Reading vertex	106
+Reading vertex	107
+Reading vertex	108
+Reading vertex	109
+Reading vertex	110
+Reading vertex	111
+Reading vertex	112
+Reading vertex	113
+Reading vertex	114
+Reading vertex	115
+Reading vertex	116
+Reading vertex	117
+Reading vertex	118
+Reading vertex	119
+Reading vertex	120
+Reading vertex	121
+Reading vertex	122
+Reading vertex	123
+Reading vertex	124
+Reading vertex	125
+Reading vertex	126
+Reading vertex	127
+Reading vertex	128
+Reading vertex	129
+Reading vertex	130
+Reading vertex	131
+Reading vertex	132
+Reading vertex	133
+Reading vertex	134
+Reading vertex	135
+Reading vertex	136
+Reading vertex	137
+Reading vertex	138
+Reading vertex	139
+Reading vertex	140
+Reading vertex	141
+Reading vertex	142
+Reading vertex	143
+Reading vertex	144
+Reading vertex	145
+Reading vertex	146
+Reading vertex	147
+Reading vertex	148
+Reading vertex	149
+Reading vertex	150
+Reading vertex	151
+Reading vertex	152
+Reading vertex	153
+Reading vertex	154
+Reading vertex	155
+Reading vertex	156
+Reading vertex	157
+Reading vertex	158
+Reading vertex	159
+Reading vertex	160
+Reading vertex	161
+Reading vertex	162
+Reading vertex	163
+Reading vertex	164
+Reading vertex	165
+Reading vertex	166
+Reading vertex	167
+Reading vertex	168
+Reading vertex	169
+Reading vertex	170
+Reading vertex	171
+Reading vertex	172
+Reading vertex	173
+Reading vertex	174
+Reading vertex	175
+Reading vertex	176
+Reading vertex	177
+Reading vertex	178
+Reading vertex	179
+Reading vertex	180
+Reading vertex	181
+Reading vertex	182
+Reading vertex	183
+Reading vertex	184
+Reading vertex	185
+Reading vertex	186
+Reading vertex	187
+Reading vertex	188
+Reading vertex	189
+Reading vertex	190
+Reading vertex	191
+Reading vertex	192
+Reading vertex	193
+Reading vertex	194
+Reading vertex	195
+Reading vertex	196
+Reading vertex	197
+Reading vertex	198
+Reading vertex	199
+Reading vertex	200
+Reading vertex	201
+Reading vertex	202
+Reading vertex	203
+Reading vertex	204
+Reading vertex	205
+Reading vertex	206
+Reading vertex	207
+Reading vertex	208
+Reading vertex	209
+Reading vertex	210
+Reading vertex	211
+Reading vertex	212
+Reading vertex	213
+Reading vertex	214
+Reading vertex	215
+Reading vertex	216
+Reading vertex	217
+Reading vertex	218
+Reading vertex	219
+Reading vertex	220
+Reading vertex	221
+Reading vertex	222
+Reading vertex	223
+Reading vertex	224
+Reading vertex	225
+Reading vertex	226
+Reading vertex	227
+Reading vertex	228
+Reading vertex	229
+Reading vertex	230
+Reading vertex	231
+Reading vertex	232
+Reading vertex	233
+Reading vertex	234
+Reading vertex	235
+Reading vertex	236
+Reading vertex	237
+Reading vertex	238
+Reading vertex	239
+Reading vertex	240
+Reading vertex	241
+Reading vertex	242
+Reading vertex	243
+Reading vertex	244
+Reading vertex	245
+Reading vertex	246
+Reading vertex	247
+Reading vertex	248
+Reading vertex	249
+Reading vertex	250
+Reading vertex	251
+Reading vertex	252
+Reading vertex	253
+Reading vertex	254
+Reading vertex	255
+Reading vertex	256
+Reading vertex	257
+Reading vertex	258
+Reading vertex	259
+Reading vertex	260
+Reading vertex	261
+Reading vertex	262
+Reading vertex	263
+Reading vertex	264
+Reading vertex	265
+Reading vertex	266
+Reading vertex	267
+Reading vertex	268
+Reading vertex	269
+Reading vertex	270
+Reading vertex	271
+Reading vertex	272
+Reading vertex	273
+Reading vertex	274
+Reading vertex	275
+Reading vertex	276
+Reading vertex	277
+Reading vertex	278
+Reading vertex	279
+Reading vertex	280
+Reading vertex	281
+Reading vertex	282
+Reading vertex	283
+Reading vertex	284
+Reading vertex	285
+Reading vertex	286
+Reading vertex	287
+Reading vertex	288
+Reading vertex	289
+Reading vertex	290
+Reading vertex	291
+Reading vertex	292
+Reading vertex	293
+Reading vertex	294
+Reading vertex	295
+Reading vertex	296
+Reading vertex	297
+Reading vertex	298
+Reading vertex	299
+Reading vertex	300
+Reading vertex	301
+Reading vertex	302
+Reading vertex	303
+Reading vertex	304
+Reading vertex	305
+Reading vertex	306
+Reading vertex	307
+Reading vertex	308
+Reading vertex	309
+Reading vertex	310
+Reading vertex	311
+Reading vertex	312
+Reading vertex	313
+Reading vertex	314
+Reading vertex	315
+Reading vertex	316
+Reading vertex	317
+Reading vertex	318
+Reading vertex	319
+Reading vertex	320
+Reading vertex	321
+Reading vertex	322
+Reading vertex	323
+Reading vertex	324
+Reading vertex	325
+Reading vertex	326
+Reading vertex	327
+Reading vertex	328
+Reading vertex	329
+Reading vertex	330
+Reading edge	0	1
+Reading edge	0	2
+Reading edge	0	3
+Reading edge	0	4
+Reading edge	0	5
+Reading edge	1	2
+Reading edge	1	3
+Reading edge	1	4
+Reading edge	1	5
+Reading edge	1	6
+Reading edge	1	326
+Reading edge	2	3
+Reading edge	2	4
+Reading edge	2	5
+Reading edge	2	6
+Reading edge	3	4
+Reading edge	3	5
+Reading edge	3	6
+Reading edge	3	7
+Reading edge	4	5
+Reading edge	4	6
+Reading edge	4	7
+Reading edge	4	8
+Reading edge	4	301
+Reading edge	4	303
+Reading edge	4	308
+Reading edge	4	324
+Reading edge	4	326
+Reading edge	5	6
+Reading edge	5	7
+Reading edge	5	8
+Reading edge	5	9
+Reading edge	5	326
+Reading edge	6	7
+Reading edge	6	8
+Reading edge	6	9
+Reading edge	6	10
+Reading edge	6	151
+Reading edge	7	8
+Reading edge	7	9
+Reading edge	7	10
+Reading edge	7	11
+Reading edge	7	151
+Reading edge	7	301
+Reading edge	8	9
+Reading edge	8	10
+Reading edge	8	11
+Reading edge	8	12
+Reading edge	8	13
+Reading edge	8	297
+Reading edge	8	301
+Reading edge	8	308
+Reading edge	8	309
+Reading edge	9	10
+Reading edge	9	11
+Reading edge	9	12
+Reading edge	9	13
+Reading edge	9	14
+Reading edge	10	11
+Reading edge	10	12
+Reading edge	10	13
+Reading edge	10	14
+Reading edge	10	15
+Reading edge	10	146
+Reading edge	10	147
+Reading edge	10	150
+Reading edge	10	151
+Reading edge	11	12
+Reading edge	11	13
+Reading edge	11	14
+Reading edge	11	15
+Reading edge	11	16
+Reading edge	11	113
+Reading edge	11	143
+Reading edge	11	147
+Reading edge	11	151
+Reading edge	11	296
+Reading edge	11	297
+Reading edge	11	300
+Reading edge	11	301
+Reading edge	12	13
+Reading edge	12	14
+Reading edge	12	15
+Reading edge	12	16
+Reading edge	12	91
+Reading edge	12	111
+Reading edge	12	113
+Reading edge	12	293
+Reading edge	12	294
+Reading edge	12	297
+Reading edge	13	14
+Reading edge	13	15
+Reading edge	13	16
+Reading edge	13	17
+Reading edge	14	15
+Reading edge	14	16
+Reading edge	14	17
+Reading edge	14	18
+Reading edge	14	142
+Reading edge	14	143
+Reading edge	14	146
+Reading edge	15	16
+Reading edge	15	17
+Reading edge	15	18
+Reading edge	15	19
+Reading edge	15	113
+Reading edge	15	136
+Reading edge	15	139
+Reading edge	15	140
+Reading edge	15	143
+Reading edge	15	291
+Reading edge	15	296
+Reading edge	16	17
+Reading edge	16	18
+Reading edge	16	19
+Reading edge	16	20
+Reading edge	16	89
+Reading edge	16	91
+Reading edge	16	113
+Reading edge	17	18
+Reading edge	17	19
+Reading edge	17	20
+Reading edge	17	21
+Reading edge	17	22
+Reading edge	18	19
+Reading edge	18	20
+Reading edge	18	21
+Reading edge	18	22
+Reading edge	18	23
+Reading edge	18	138
+Reading edge	18	139
+Reading edge	18	142
+Reading edge	18	143
+Reading edge	19	20
+Reading edge	19	21
+Reading edge	19	22
+Reading edge	19	23
+Reading edge	19	24
+Reading edge	19	25
+Reading edge	19	89
+Reading edge	19	113
+Reading edge	19	115
+Reading edge	19	136
+Reading edge	19	291
+Reading edge	20	21
+Reading edge	20	22
+Reading edge	20	23
+Reading edge	20	24
+Reading edge	20	25
+Reading edge	20	27
+Reading edge	20	89
+Reading edge	21	22
+Reading edge	21	23
+Reading edge	21	24
+Reading edge	22	23
+Reading edge	22	24
+Reading edge	22	135
+Reading edge	22	138
+Reading edge	22	139
+Reading edge	22	142
+Reading edge	23	24
+Reading edge	23	25
+Reading edge	23	85
+Reading edge	23	115
+Reading edge	23	117
+Reading edge	23	132
+Reading edge	23	135
+Reading edge	23	136
+Reading edge	24	25
+Reading edge	24	26
+Reading edge	24	85
+Reading edge	24	86
+Reading edge	24	87
+Reading edge	25	26
+Reading edge	25	27
+Reading edge	25	87
+Reading edge	25	88
+Reading edge	25	89
+Reading edge	25	115
+Reading edge	25	116
+Reading edge	25	117
+Reading edge	26	27
+Reading edge	26	28
+Reading edge	26	82
+Reading edge	26	87
+Reading edge	26	88
+Reading edge	26	89
+Reading edge	27	28
+Reading edge	27	29
+Reading edge	27	89
+Reading edge	27	90
+Reading edge	27	91
+Reading edge	28	29
+Reading edge	28	30
+Reading edge	28	72
+Reading edge	28	88
+Reading edge	28	89
+Reading edge	28	90
+Reading edge	29	30
+Reading edge	29	31
+Reading edge	29	72
+Reading edge	29	90
+Reading edge	30	31
+Reading edge	30	32
+Reading edge	30	69
+Reading edge	30	90
+Reading edge	30	91
+Reading edge	30	92
+Reading edge	31	32
+Reading edge	31	33
+Reading edge	31	66
+Reading edge	31	69
+Reading edge	31	72
+Reading edge	31	93
+Reading edge	32	33
+Reading edge	32	34
+Reading edge	32	64
+Reading edge	32	65
+Reading edge	32	66
+Reading edge	32	93
+Reading edge	32	94
+Reading edge	32	95
+Reading edge	33	34
+Reading edge	33	35
+Reading edge	33	53
+Reading edge	33	55
+Reading edge	33	63
+Reading edge	33	64
+Reading edge	33	65
+Reading edge	33	66
+Reading edge	34	35
+Reading edge	34	36
+Reading edge	34	38
+Reading edge	34	40
+Reading edge	34	41
+Reading edge	34	62
+Reading edge	34	63
+Reading edge	34	64
+Reading edge	34	66
+Reading edge	35	36
+Reading edge	35	37
+Reading edge	35	38
+Reading edge	35	61
+Reading edge	35	62
+Reading edge	35	63
+Reading edge	36	37
+Reading edge	36	38
+Reading edge	36	52
+Reading edge	36	62
+Reading edge	36	63
+Reading edge	36	64
+Reading edge	37	38
+Reading edge	37	39
+Reading edge	37	272
+Reading edge	37	273
+Reading edge	38	39
+Reading edge	38	40
+Reading edge	38	41
+Reading edge	38	272
+Reading edge	38	273
+Reading edge	38	274
+Reading edge	39	40
+Reading edge	39	41
+Reading edge	39	71
+Reading edge	39	272
+Reading edge	39	273
+Reading edge	39	274
+Reading edge	39	275
+Reading edge	40	41
+Reading edge	40	42
+Reading edge	40	71
+Reading edge	40	72
+Reading edge	40	75
+Reading edge	40	273
+Reading edge	40	274
+Reading edge	41	42
+Reading edge	41	43
+Reading edge	41	50
+Reading edge	41	64
+Reading edge	41	65
+Reading edge	41	66
+Reading edge	41	67
+Reading edge	41	68
+Reading edge	41	71
+Reading edge	42	43
+Reading edge	42	44
+Reading edge	42	66
+Reading edge	42	67
+Reading edge	42	68
+Reading edge	42	70
+Reading edge	42	71
+Reading edge	42	96
+Reading edge	42	211
+Reading edge	42	214
+Reading edge	43	44
+Reading edge	43	45
+Reading edge	43	46
+Reading edge	43	47
+Reading edge	43	48
+Reading edge	43	67
+Reading edge	43	71
+Reading edge	43	213
+Reading edge	43	269
+Reading edge	44	45
+Reading edge	44	46
+Reading edge	44	48
+Reading edge	44	67
+Reading edge	44	96
+Reading edge	44	210
+Reading edge	44	211
+Reading edge	44	214
+Reading edge	45	46
+Reading edge	45	47
+Reading edge	45	48
+Reading edge	45	209
+Reading edge	46	47
+Reading edge	46	48
+Reading edge	46	269
+Reading edge	47	48
+Reading edge	47	49
+Reading edge	47	98
+Reading edge	48	49
+Reading edge	48	50
+Reading edge	48	67
+Reading edge	48	98
+Reading edge	49	50
+Reading edge	49	51
+Reading edge	49	52
+Reading edge	49	64
+Reading edge	49	67
+Reading edge	49	97
+Reading edge	49	98
+Reading edge	50	51
+Reading edge	50	52
+Reading edge	50	64
+Reading edge	50	65
+Reading edge	50	67
+Reading edge	50	97
+Reading edge	51	52
+Reading edge	51	53
+Reading edge	51	63
+Reading edge	51	64
+Reading edge	51	65
+Reading edge	51	95
+Reading edge	51	97
+Reading edge	52	53
+Reading edge	52	54
+Reading edge	52	62
+Reading edge	52	63
+Reading edge	52	64
+Reading edge	52	65
+Reading edge	53	54
+Reading edge	53	55
+Reading edge	53	62
+Reading edge	53	63
+Reading edge	53	64
+Reading edge	53	65
+Reading edge	54	55
+Reading edge	54	56
+Reading edge	54	58
+Reading edge	54	59
+Reading edge	54	60
+Reading edge	54	61
+Reading edge	54	62
+Reading edge	54	63
+Reading edge	55	56
+Reading edge	55	57
+Reading edge	55	58
+Reading edge	55	59
+Reading edge	55	63
+Reading edge	56	57
+Reading edge	56	58
+Reading edge	56	59
+Reading edge	57	58
+Reading edge	57	59
+Reading edge	58	59
+Reading edge	58	60
+Reading edge	58	61
+Reading edge	58	63
+Reading edge	59	60
+Reading edge	59	61
+Reading edge	60	61
+Reading edge	60	62
+Reading edge	61	62
+Reading edge	61	63
+Reading edge	62	63
+Reading edge	62	64
+Reading edge	63	64
+Reading edge	63	65
+Reading edge	64	65
+Reading edge	64	66
+Reading edge	65	66
+Reading edge	65	67
+Reading edge	65	94
+Reading edge	65	95
+Reading edge	66	67
+Reading edge	66	68
+Reading edge	66	69
+Reading edge	66	93
+Reading edge	66	94
+Reading edge	66	95
+Reading edge	67	68
+Reading edge	67	69
+Reading edge	67	92
+Reading edge	67	94
+Reading edge	67	95
+Reading edge	67	96
+Reading edge	67	112
+Reading edge	68	69
+Reading edge	68	70
+Reading edge	68	92
+Reading edge	68	94
+Reading edge	68	96
+Reading edge	68	112
+Reading edge	68	114
+Reading edge	69	70
+Reading edge	69	71
+Reading edge	69	72
+Reading edge	69	73
+Reading edge	69	90
+Reading edge	69	92
+Reading edge	69	114
+Reading edge	70	71
+Reading edge	70	72
+Reading edge	70	73
+Reading edge	70	74
+Reading edge	70	114
+Reading edge	70	116
+Reading edge	70	214
+Reading edge	70	251
+Reading edge	71	72
+Reading edge	71	73
+Reading edge	71	74
+Reading edge	71	75
+Reading edge	71	76
+Reading edge	71	213
+Reading edge	71	214
+Reading edge	71	274
+Reading edge	71	275
+Reading edge	72	73
+Reading edge	72	74
+Reading edge	72	75
+Reading edge	72	76
+Reading edge	72	88
+Reading edge	72	90
+Reading edge	72	274
+Reading edge	73	74
+Reading edge	73	75
+Reading edge	73	76
+Reading edge	73	77
+Reading edge	73	88
+Reading edge	73	114
+Reading edge	73	115
+Reading edge	73	116
+Reading edge	73	251
+Reading edge	73	288
+Reading edge	73	289
+Reading edge	73	290
+Reading edge	74	75
+Reading edge	74	76
+Reading edge	74	77
+Reading edge	74	78
+Reading edge	74	79
+Reading edge	74	116
+Reading edge	74	251
+Reading edge	74	252
+Reading edge	74	253
+Reading edge	74	274
+Reading edge	74	278
+Reading edge	74	283
+Reading edge	74	284
+Reading edge	74	285
+Reading edge	74	286
+Reading edge	75	76
+Reading edge	75	77
+Reading edge	75	78
+Reading edge	75	79
+Reading edge	75	80
+Reading edge	75	273
+Reading edge	75	274
+Reading edge	75	283
+Reading edge	76	77
+Reading edge	76	78
+Reading edge	76	79
+Reading edge	76	80
+Reading edge	76	81
+Reading edge	76	82
+Reading edge	76	88
+Reading edge	77	78
+Reading edge	77	79
+Reading edge	77	80
+Reading edge	77	81
+Reading edge	77	82
+Reading edge	77	86
+Reading edge	77	87
+Reading edge	77	88
+Reading edge	77	116
+Reading edge	77	117
+Reading edge	77	118
+Reading edge	77	284
+Reading edge	77	286
+Reading edge	78	79
+Reading edge	78	80
+Reading edge	78	81
+Reading edge	78	282
+Reading edge	78	283
+Reading edge	78	284
+Reading edge	79	80
+Reading edge	79	81
+Reading edge	79	282
+Reading edge	80	81
+Reading edge	80	82
+Reading edge	81	82
+Reading edge	81	83
+Reading edge	82	83
+Reading edge	82	84
+Reading edge	82	86
+Reading edge	82	87
+Reading edge	82	88
+Reading edge	82	118
+Reading edge	82	284
+Reading edge	83	84
+Reading edge	83	85
+Reading edge	83	86
+Reading edge	83	118
+Reading edge	84	85
+Reading edge	84	86
+Reading edge	84	117
+Reading edge	84	118
+Reading edge	84	119
+Reading edge	84	120
+Reading edge	85	86
+Reading edge	85	87
+Reading edge	85	117
+Reading edge	85	118
+Reading edge	85	119
+Reading edge	86	87
+Reading edge	86	88
+Reading edge	86	116
+Reading edge	86	117
+Reading edge	86	118
+Reading edge	87	88
+Reading edge	87	89
+Reading edge	87	116
+Reading edge	87	117
+Reading edge	87	118
+Reading edge	88	89
+Reading edge	88	90
+Reading edge	88	114
+Reading edge	88	115
+Reading edge	88	116
+Reading edge	89	90
+Reading edge	89	91
+Reading edge	89	113
+Reading edge	89	114
+Reading edge	89	115
+Reading edge	90	91
+Reading edge	90	92
+Reading edge	90	112
+Reading edge	90	113
+Reading edge	90	114
+Reading edge	91	92
+Reading edge	91	93
+Reading edge	91	112
+Reading edge	91	113
+Reading edge	91	293
+Reading edge	92	93
+Reading edge	92	94
+Reading edge	92	96
+Reading edge	92	110
+Reading edge	92	111
+Reading edge	92	112
+Reading edge	92	113
+Reading edge	92	114
+Reading edge	93	94
+Reading edge	93	95
+Reading edge	93	109
+Reading edge	93	110
+Reading edge	93	111
+Reading edge	93	293
+Reading edge	94	95
+Reading edge	94	96
+Reading edge	94	108
+Reading edge	94	109
+Reading edge	94	110
+Reading edge	94	111
+Reading edge	95	96
+Reading edge	95	97
+Reading edge	95	108
+Reading edge	95	109
+Reading edge	95	110
+Reading edge	96	97
+Reading edge	96	98
+Reading edge	96	99
+Reading edge	96	107
+Reading edge	96	108
+Reading edge	96	109
+Reading edge	96	110
+Reading edge	96	112
+Reading edge	97	98
+Reading edge	97	99
+Reading edge	97	108
+Reading edge	98	99
+Reading edge	98	100
+Reading edge	99	100
+Reading edge	99	101
+Reading edge	99	102
+Reading edge	99	106
+Reading edge	99	107
+Reading edge	99	110
+Reading edge	100	101
+Reading edge	100	102
+Reading edge	101	102
+Reading edge	101	103
+Reading edge	101	106
+Reading edge	102	103
+Reading edge	102	104
+Reading edge	102	106
+Reading edge	102	107
+Reading edge	102	108
+Reading edge	102	313
+Reading edge	102	314
+Reading edge	102	315
+Reading edge	103	104
+Reading edge	103	105
+Reading edge	103	106
+Reading edge	103	305
+Reading edge	103	306
+Reading edge	103	314
+Reading edge	104	105
+Reading edge	104	106
+Reading edge	104	239
+Reading edge	104	298
+Reading edge	104	304
+Reading edge	104	305
+Reading edge	104	306
+Reading edge	105	106
+Reading edge	105	107
+Reading edge	105	239
+Reading edge	105	242
+Reading edge	105	243
+Reading edge	105	244
+Reading edge	105	295
+Reading edge	105	298
+Reading edge	105	306
+Reading edge	106	107
+Reading edge	106	108
+Reading edge	106	295
+Reading edge	106	306
+Reading edge	106	314
+Reading edge	107	108
+Reading edge	107	109
+Reading edge	107	110
+Reading edge	107	306
+Reading edge	107	310
+Reading edge	107	312
+Reading edge	107	313
+Reading edge	107	314
+Reading edge	108	109
+Reading edge	108	110
+Reading edge	108	313
+Reading edge	109	110
+Reading edge	109	111
+Reading edge	109	310
+Reading edge	109	311
+Reading edge	109	312
+Reading edge	110	111
+Reading edge	110	112
+Reading edge	110	310
+Reading edge	111	112
+Reading edge	111	113
+Reading edge	111	291
+Reading edge	111	292
+Reading edge	111	293
+Reading edge	111	294
+Reading edge	111	310
+Reading edge	112	113
+Reading edge	112	114
+Reading edge	112	290
+Reading edge	112	291
+Reading edge	112	292
+Reading edge	112	293
+Reading edge	113	114
+Reading edge	113	115
+Reading edge	113	289
+Reading edge	113	290
+Reading edge	113	291
+Reading edge	113	292
+Reading edge	113	293
+Reading edge	113	296
+Reading edge	114	115
+Reading edge	114	116
+Reading edge	114	289
+Reading edge	114	290
+Reading edge	115	116
+Reading edge	115	117
+Reading edge	115	132
+Reading edge	115	136
+Reading edge	115	248
+Reading edge	115	251
+Reading edge	115	287
+Reading edge	115	288
+Reading edge	115	289
+Reading edge	115	290
+Reading edge	115	291
+Reading edge	116	117
+Reading edge	116	118
+Reading edge	116	251
+Reading edge	116	286
+Reading edge	116	287
+Reading edge	116	288
+Reading edge	116	289
+Reading edge	117	118
+Reading edge	117	119
+Reading edge	117	120
+Reading edge	117	123
+Reading edge	117	128
+Reading edge	117	132
+Reading edge	117	285
+Reading edge	117	286
+Reading edge	117	287
+Reading edge	117	288
+Reading edge	118	119
+Reading edge	118	120
+Reading edge	118	123
+Reading edge	118	284
+Reading edge	118	285
+Reading edge	118	286
+Reading edge	119	120
+Reading edge	119	121
+Reading edge	119	123
+Reading edge	119	124
+Reading edge	119	125
+Reading edge	119	128
+Reading edge	119	250
+Reading edge	119	285
+Reading edge	119	286
+Reading edge	119	287
+Reading edge	120	121
+Reading edge	120	122
+Reading edge	120	123
+Reading edge	120	124
+Reading edge	121	122
+Reading edge	121	123
+Reading edge	122	123
+Reading edge	122	124
+Reading edge	122	125
+Reading edge	122	128
+Reading edge	123	124
+Reading edge	123	125
+Reading edge	123	128
+Reading edge	123	250
+Reading edge	124	125
+Reading edge	124	126
+Reading edge	124	128
+Reading edge	124	216
+Reading edge	124	219
+Reading edge	124	228
+Reading edge	124	250
+Reading edge	124	251
+Reading edge	124	252
+Reading edge	124	253
+Reading edge	124	256
+Reading edge	124	285
+Reading edge	125	126
+Reading edge	125	127
+Reading edge	125	128
+Reading edge	125	129
+Reading edge	125	222
+Reading edge	125	228
+Reading edge	125	250
+Reading edge	126	127
+Reading edge	126	128
+Reading edge	126	129
+Reading edge	126	130
+Reading edge	126	131
+Reading edge	126	163
+Reading edge	126	195
+Reading edge	126	221
+Reading edge	126	222
+Reading edge	126	223
+Reading edge	126	228
+Reading edge	126	250
+Reading edge	127	128
+Reading edge	127	129
+Reading edge	127	130
+Reading edge	127	131
+Reading edge	127	222
+Reading edge	128	129
+Reading edge	128	130
+Reading edge	128	131
+Reading edge	128	132
+Reading edge	128	250
+Reading edge	128	287
+Reading edge	129	130
+Reading edge	129	131
+Reading edge	129	132
+Reading edge	129	133
+Reading edge	129	134
+Reading edge	129	163
+Reading edge	129	193
+Reading edge	129	228
+Reading edge	129	229
+Reading edge	129	248
+Reading edge	129	249
+Reading edge	129	250
+Reading edge	129	287
+Reading edge	130	131
+Reading edge	130	132
+Reading edge	130	133
+Reading edge	130	134
+Reading edge	130	163
+Reading edge	131	132
+Reading edge	131	133
+Reading edge	131	134
+Reading edge	131	135
+Reading edge	132	133
+Reading edge	132	134
+Reading edge	132	135
+Reading edge	132	136
+Reading edge	132	248
+Reading edge	132	287
+Reading edge	133	134
+Reading edge	133	135
+Reading edge	133	136
+Reading edge	133	137
+Reading edge	133	161
+Reading edge	133	163
+Reading edge	133	193
+Reading edge	133	232
+Reading edge	133	248
+Reading edge	134	135
+Reading edge	134	136
+Reading edge	134	137
+Reading edge	134	138
+Reading edge	134	139
+Reading edge	134	161
+Reading edge	134	163
+Reading edge	135	136
+Reading edge	135	137
+Reading edge	135	138
+Reading edge	135	139
+Reading edge	136	137
+Reading edge	136	138
+Reading edge	136	139
+Reading edge	136	140
+Reading edge	136	232
+Reading edge	136	248
+Reading edge	136	291
+Reading edge	137	138
+Reading edge	137	139
+Reading edge	137	140
+Reading edge	137	141
+Reading edge	137	157
+Reading edge	137	158
+Reading edge	137	159
+Reading edge	137	160
+Reading edge	137	161
+Reading edge	137	191
+Reading edge	137	232
+Reading edge	137	234
+Reading edge	138	139
+Reading edge	138	140
+Reading edge	138	141
+Reading edge	138	142
+Reading edge	139	140
+Reading edge	139	141
+Reading edge	139	142
+Reading edge	139	143
+Reading edge	140	141
+Reading edge	140	142
+Reading edge	140	143
+Reading edge	140	144
+Reading edge	140	157
+Reading edge	140	296
+Reading edge	140	300
+Reading edge	141	142
+Reading edge	141	143
+Reading edge	141	144
+Reading edge	141	145
+Reading edge	141	157
+Reading edge	141	158
+Reading edge	141	159
+Reading edge	142	143
+Reading edge	142	144
+Reading edge	142	145
+Reading edge	142	146
+Reading edge	143	144
+Reading edge	143	145
+Reading edge	143	146
+Reading edge	143	147
+Reading edge	143	300
+Reading edge	144	145
+Reading edge	144	146
+Reading edge	144	147
+Reading edge	144	148
+Reading edge	144	153
+Reading edge	144	155
+Reading edge	144	156
+Reading edge	144	157
+Reading edge	144	300
+Reading edge	145	146
+Reading edge	145	147
+Reading edge	145	148
+Reading edge	145	149
+Reading edge	146	147
+Reading edge	146	148
+Reading edge	146	149
+Reading edge	146	150
+Reading edge	147	148
+Reading edge	147	149
+Reading edge	147	150
+Reading edge	147	151
+Reading edge	147	152
+Reading edge	147	153
+Reading edge	147	300
+Reading edge	147	301
+Reading edge	148	149
+Reading edge	148	150
+Reading edge	148	151
+Reading edge	148	152
+Reading edge	148	153
+Reading edge	148	154
+Reading edge	148	155
+Reading edge	149	150
+Reading edge	149	151
+Reading edge	149	152
+Reading edge	149	153
+Reading edge	150	151
+Reading edge	150	152
+Reading edge	151	152
+Reading edge	151	153
+Reading edge	151	301
+Reading edge	152	153
+Reading edge	152	154
+Reading edge	153	154
+Reading edge	153	155
+Reading edge	153	300
+Reading edge	153	301
+Reading edge	153	302
+Reading edge	154	155
+Reading edge	154	156
+Reading edge	154	302
+Reading edge	155	156
+Reading edge	155	157
+Reading edge	156	157
+Reading edge	156	158
+Reading edge	156	235
+Reading edge	156	236
+Reading edge	156	237
+Reading edge	156	299
+Reading edge	156	300
+Reading edge	156	302
+Reading edge	157	158
+Reading edge	157	159
+Reading edge	157	234
+Reading edge	157	235
+Reading edge	157	299
+Reading edge	157	300
+Reading edge	158	159
+Reading edge	158	160
+Reading edge	158	189
+Reading edge	158	190
+Reading edge	158	191
+Reading edge	159	160
+Reading edge	159	161
+Reading edge	160	161
+Reading edge	160	162
+Reading edge	160	191
+Reading edge	161	162
+Reading edge	161	163
+Reading edge	161	191
+Reading edge	161	192
+Reading edge	161	193
+Reading edge	161	232
+Reading edge	162	163
+Reading edge	162	164
+Reading edge	162	189
+Reading edge	162	191
+Reading edge	162	192
+Reading edge	162	193
+Reading edge	163	164
+Reading edge	163	165
+Reading edge	163	168
+Reading edge	163	193
+Reading edge	163	195
+Reading edge	164	165
+Reading edge	164	166
+Reading edge	164	168
+Reading edge	164	169
+Reading edge	164	172
+Reading edge	164	185
+Reading edge	164	189
+Reading edge	164	192
+Reading edge	164	193
+Reading edge	164	194
+Reading edge	164	195
+Reading edge	165	166
+Reading edge	165	167
+Reading edge	165	168
+Reading edge	165	169
+Reading edge	165	194
+Reading edge	165	195
+Reading edge	165	196
+Reading edge	165	221
+Reading edge	165	223
+Reading edge	165	225
+Reading edge	165	226
+Reading edge	165	227
+Reading edge	166	167
+Reading edge	166	168
+Reading edge	166	169
+Reading edge	166	170
+Reading edge	166	181
+Reading edge	166	194
+Reading edge	166	195
+Reading edge	166	196
+Reading edge	166	197
+Reading edge	166	201
+Reading edge	166	207
+Reading edge	167	168
+Reading edge	167	169
+Reading edge	167	170
+Reading edge	167	171
+Reading edge	167	201
+Reading edge	167	202
+Reading edge	167	225
+Reading edge	168	169
+Reading edge	168	170
+Reading edge	168	171
+Reading edge	168	172
+Reading edge	168	223
+Reading edge	168	225
+Reading edge	169	170
+Reading edge	169	171
+Reading edge	169	172
+Reading edge	169	173
+Reading edge	169	174
+Reading edge	169	181
+Reading edge	169	182
+Reading edge	169	185
+Reading edge	169	194
+Reading edge	169	207
+Reading edge	170	171
+Reading edge	170	172
+Reading edge	170	173
+Reading edge	170	174
+Reading edge	170	181
+Reading edge	170	201
+Reading edge	170	202
+Reading edge	170	203
+Reading edge	171	172
+Reading edge	171	173
+Reading edge	171	174
+Reading edge	172	173
+Reading edge	172	174
+Reading edge	172	185
+Reading edge	172	189
+Reading edge	173	174
+Reading edge	173	175
+Reading edge	173	176
+Reading edge	173	181
+Reading edge	173	184
+Reading edge	173	185
+Reading edge	173	188
+Reading edge	174	175
+Reading edge	174	176
+Reading edge	175	176
+Reading edge	175	177
+Reading edge	176	177
+Reading edge	176	178
+Reading edge	176	180
+Reading edge	176	181
+Reading edge	176	184
+Reading edge	177	178
+Reading edge	177	179
+Reading edge	177	180
+Reading edge	177	181
+Reading edge	177	182
+Reading edge	178	179
+Reading edge	178	180
+Reading edge	178	181
+Reading edge	178	182
+Reading edge	178	207
+Reading edge	179	180
+Reading edge	179	181
+Reading edge	179	182
+Reading edge	179	183
+Reading edge	179	208
+Reading edge	180	181
+Reading edge	180	182
+Reading edge	180	183
+Reading edge	180	184
+Reading edge	181	182
+Reading edge	181	183
+Reading edge	181	184
+Reading edge	181	185
+Reading edge	181	186
+Reading edge	181	201
+Reading edge	181	203
+Reading edge	181	207
+Reading edge	182	183
+Reading edge	182	184
+Reading edge	182	185
+Reading edge	182	186
+Reading edge	182	194
+Reading edge	182	207
+Reading edge	182	231
+Reading edge	182	233
+Reading edge	182	242
+Reading edge	183	184
+Reading edge	183	185
+Reading edge	183	186
+Reading edge	183	187
+Reading edge	183	235
+Reading edge	183	240
+Reading edge	183	241
+Reading edge	183	242
+Reading edge	184	185
+Reading edge	184	186
+Reading edge	184	187
+Reading edge	184	188
+Reading edge	185	186
+Reading edge	185	187
+Reading edge	185	188
+Reading edge	185	189
+Reading edge	185	190
+Reading edge	185	192
+Reading edge	186	187
+Reading edge	186	188
+Reading edge	186	189
+Reading edge	186	190
+Reading edge	186	191
+Reading edge	186	192
+Reading edge	186	234
+Reading edge	186	235
+Reading edge	186	242
+Reading edge	187	188
+Reading edge	187	189
+Reading edge	187	190
+Reading edge	187	235
+Reading edge	188	189
+Reading edge	188	190
+Reading edge	189	190
+Reading edge	189	191
+Reading edge	189	192
+Reading edge	190	191
+Reading edge	190	192
+Reading edge	190	233
+Reading edge	190	234
+Reading edge	190	235
+Reading edge	191	192
+Reading edge	191	193
+Reading edge	191	233
+Reading edge	191	234
+Reading edge	192	193
+Reading edge	192	194
+Reading edge	192	231
+Reading edge	192	232
+Reading edge	192	233
+Reading edge	193	194
+Reading edge	193	195
+Reading edge	193	229
+Reading edge	193	230
+Reading edge	193	231
+Reading edge	193	232
+Reading edge	193	248
+Reading edge	194	195
+Reading edge	194	196
+Reading edge	194	197
+Reading edge	194	207
+Reading edge	194	229
+Reading edge	194	230
+Reading edge	194	231
+Reading edge	194	233
+Reading edge	195	196
+Reading edge	195	197
+Reading edge	195	221
+Reading edge	195	223
+Reading edge	195	227
+Reading edge	195	229
+Reading edge	195	230
+Reading edge	196	197
+Reading edge	196	198
+Reading edge	196	199
+Reading edge	196	201
+Reading edge	196	207
+Reading edge	196	217
+Reading edge	196	226
+Reading edge	196	227
+Reading edge	196	229
+Reading edge	196	230
+Reading edge	197	198
+Reading edge	197	199
+Reading edge	197	207
+Reading edge	197	208
+Reading edge	197	209
+Reading edge	197	210
+Reading edge	197	217
+Reading edge	197	229
+Reading edge	197	230
+Reading edge	197	231
+Reading edge	198	199
+Reading edge	198	200
+Reading edge	198	206
+Reading edge	198	207
+Reading edge	198	208
+Reading edge	198	209
+Reading edge	198	210
+Reading edge	198	217
+Reading edge	198	229
+Reading edge	199	200
+Reading edge	199	201
+Reading edge	199	205
+Reading edge	199	206
+Reading edge	199	207
+Reading edge	199	217
+Reading edge	200	201
+Reading edge	200	202
+Reading edge	200	204
+Reading edge	200	205
+Reading edge	200	206
+Reading edge	201	202
+Reading edge	201	203
+Reading edge	201	204
+Reading edge	201	205
+Reading edge	201	206
+Reading edge	201	207
+Reading edge	202	203
+Reading edge	202	204
+Reading edge	203	204
+Reading edge	203	205
+Reading edge	204	205
+Reading edge	204	206
+Reading edge	205	206
+Reading edge	205	207
+Reading edge	206	207
+Reading edge	206	208
+Reading edge	206	209
+Reading edge	207	208
+Reading edge	207	209
+Reading edge	208	209
+Reading edge	208	210
+Reading edge	209	210
+Reading edge	209	211
+Reading edge	210	211
+Reading edge	210	212
+Reading edge	210	214
+Reading edge	210	215
+Reading edge	210	217
+Reading edge	210	229
+Reading edge	210	230
+Reading edge	210	231
+Reading edge	210	247
+Reading edge	210	248
+Reading edge	210	264
+Reading edge	211	212
+Reading edge	211	213
+Reading edge	211	214
+Reading edge	211	215
+Reading edge	211	217
+Reading edge	211	260
+Reading edge	211	264
+Reading edge	211	269
+Reading edge	212	213
+Reading edge	212	214
+Reading edge	212	215
+Reading edge	212	217
+Reading edge	212	252
+Reading edge	212	257
+Reading edge	212	260
+Reading edge	212	261
+Reading edge	212	264
+Reading edge	212	266
+Reading edge	212	269
+Reading edge	213	214
+Reading edge	213	215
+Reading edge	213	252
+Reading edge	213	257
+Reading edge	213	260
+Reading edge	213	261
+Reading edge	213	269
+Reading edge	213	274
+Reading edge	213	275
+Reading edge	214	215
+Reading edge	214	216
+Reading edge	214	250
+Reading edge	214	251
+Reading edge	214	252
+Reading edge	215	216
+Reading edge	215	217
+Reading edge	215	229
+Reading edge	215	248
+Reading edge	215	249
+Reading edge	215	250
+Reading edge	215	251
+Reading edge	215	252
+Reading edge	215	260
+Reading edge	215	288
+Reading edge	216	217
+Reading edge	216	218
+Reading edge	216	219
+Reading edge	216	227
+Reading edge	216	228
+Reading edge	216	229
+Reading edge	216	250
+Reading edge	216	251
+Reading edge	216	252
+Reading edge	216	253
+Reading edge	216	256
+Reading edge	216	260
+Reading edge	217	218
+Reading edge	217	219
+Reading edge	217	226
+Reading edge	217	227
+Reading edge	217	228
+Reading edge	217	229
+Reading edge	217	260
+Reading edge	217	263
+Reading edge	217	264
+Reading edge	218	219
+Reading edge	218	220
+Reading edge	218	226
+Reading edge	218	227
+Reading edge	218	228
+Reading edge	218	256
+Reading edge	218	259
+Reading edge	218	260
+Reading edge	219	220
+Reading edge	219	221
+Reading edge	219	225
+Reading edge	219	226
+Reading edge	219	227
+Reading edge	219	228
+Reading edge	219	256
+Reading edge	220	221
+Reading edge	220	222
+Reading edge	220	225
+Reading edge	220	226
+Reading edge	220	227
+Reading edge	221	222
+Reading edge	221	223
+Reading edge	221	224
+Reading edge	221	225
+Reading edge	221	226
+Reading edge	221	227
+Reading edge	221	228
+Reading edge	222	223
+Reading edge	222	224
+Reading edge	223	224
+Reading edge	223	225
+Reading edge	224	225
+Reading edge	224	226
+Reading edge	225	226
+Reading edge	225	227
+Reading edge	226	227
+Reading edge	226	228
+Reading edge	227	228
+Reading edge	227	229
+Reading edge	228	229
+Reading edge	228	230
+Reading edge	228	248
+Reading edge	228	249
+Reading edge	228	250
+Reading edge	229	230
+Reading edge	229	231
+Reading edge	229	248
+Reading edge	229	249
+Reading edge	229	250
+Reading edge	230	231
+Reading edge	230	232
+Reading edge	230	246
+Reading edge	230	247
+Reading edge	230	248
+Reading edge	230	249
+Reading edge	231	232
+Reading edge	231	233
+Reading edge	231	244
+Reading edge	231	246
+Reading edge	231	247
+Reading edge	231	248
+Reading edge	232	233
+Reading edge	232	234
+Reading edge	232	243
+Reading edge	232	244
+Reading edge	232	245
+Reading edge	232	246
+Reading edge	232	247
+Reading edge	232	248
+Reading edge	233	234
+Reading edge	233	235
+Reading edge	233	242
+Reading edge	233	243
+Reading edge	233	244
+Reading edge	233	245
+Reading edge	234	235
+Reading edge	234	236
+Reading edge	234	241
+Reading edge	234	242
+Reading edge	234	243
+Reading edge	234	245
+Reading edge	234	299
+Reading edge	235	236
+Reading edge	235	237
+Reading edge	235	240
+Reading edge	235	241
+Reading edge	235	242
+Reading edge	235	243
+Reading edge	236	237
+Reading edge	236	238
+Reading edge	236	239
+Reading edge	236	240
+Reading edge	236	241
+Reading edge	236	242
+Reading edge	236	243
+Reading edge	236	298
+Reading edge	236	299
+Reading edge	237	238
+Reading edge	237	239
+Reading edge	237	240
+Reading edge	237	241
+Reading edge	238	239
+Reading edge	238	240
+Reading edge	238	302
+Reading edge	238	303
+Reading edge	238	304
+Reading edge	239	240
+Reading edge	239	241
+Reading edge	239	243
+Reading edge	239	298
+Reading edge	239	303
+Reading edge	239	304
+Reading edge	240	241
+Reading edge	240	242
+Reading edge	241	242
+Reading edge	241	243
+Reading edge	242	243
+Reading edge	242	244
+Reading edge	243	244
+Reading edge	243	245
+Reading edge	243	295
+Reading edge	243	296
+Reading edge	243	298
+Reading edge	243	299
+Reading edge	244	245
+Reading edge	244	246
+Reading edge	244	247
+Reading edge	244	295
+Reading edge	245	246
+Reading edge	245	247
+Reading edge	245	290
+Reading edge	245	291
+Reading edge	245	292
+Reading edge	245	295
+Reading edge	245	296
+Reading edge	245	299
+Reading edge	246	247
+Reading edge	246	248
+Reading edge	246	290
+Reading edge	246	291
+Reading edge	246	292
+Reading edge	247	248
+Reading edge	247	249
+Reading edge	247	288
+Reading edge	247	289
+Reading edge	247	290
+Reading edge	248	249
+Reading edge	248	250
+Reading edge	248	287
+Reading edge	248	288
+Reading edge	248	289
+Reading edge	248	290
+Reading edge	249	250
+Reading edge	249	251
+Reading edge	249	286
+Reading edge	249	287
+Reading edge	249	288
+Reading edge	250	251
+Reading edge	250	252
+Reading edge	250	285
+Reading edge	250	286
+Reading edge	250	287
+Reading edge	251	252
+Reading edge	251	253
+Reading edge	251	285
+Reading edge	251	286
+Reading edge	251	287
+Reading edge	251	288
+Reading edge	251	289
+Reading edge	252	253
+Reading edge	252	254
+Reading edge	252	256
+Reading edge	252	257
+Reading edge	252	260
+Reading edge	252	278
+Reading edge	252	285
+Reading edge	253	254
+Reading edge	253	255
+Reading edge	253	256
+Reading edge	253	257
+Reading edge	253	258
+Reading edge	253	278
+Reading edge	253	285
+Reading edge	254	255
+Reading edge	254	256
+Reading edge	254	257
+Reading edge	254	258
+Reading edge	254	278
+Reading edge	254	279
+Reading edge	255	256
+Reading edge	255	257
+Reading edge	255	258
+Reading edge	255	259
+Reading edge	256	257
+Reading edge	256	258
+Reading edge	256	259
+Reading edge	256	260
+Reading edge	256	261
+Reading edge	257	258
+Reading edge	257	259
+Reading edge	257	260
+Reading edge	257	261
+Reading edge	257	262
+Reading edge	257	270
+Reading edge	257	274
+Reading edge	257	275
+Reading edge	257	278
+Reading edge	257	279
+Reading edge	258	259
+Reading edge	258	260
+Reading edge	258	261
+Reading edge	258	262
+Reading edge	258	270
+Reading edge	258	279
+Reading edge	259	260
+Reading edge	259	261
+Reading edge	259	262
+Reading edge	259	263
+Reading edge	260	261
+Reading edge	260	262
+Reading edge	260	263
+Reading edge	260	264
+Reading edge	260	265
+Reading edge	261	262
+Reading edge	261	263
+Reading edge	261	264
+Reading edge	261	265
+Reading edge	261	266
+Reading edge	261	267
+Reading edge	261	269
+Reading edge	261	270
+Reading edge	261	275
+Reading edge	262	263
+Reading edge	262	264
+Reading edge	262	265
+Reading edge	262	267
+Reading edge	263	264
+Reading edge	263	265
+Reading edge	264	265
+Reading edge	264	266
+Reading edge	265	266
+Reading edge	265	267
+Reading edge	265	268
+Reading edge	266	267
+Reading edge	266	268
+Reading edge	266	269
+Reading edge	266	270
+Reading edge	267	268
+Reading edge	267	269
+Reading edge	267	270
+Reading edge	268	269
+Reading edge	268	270
+Reading edge	268	271
+Reading edge	268	272
+Reading edge	269	270
+Reading edge	269	271
+Reading edge	269	272
+Reading edge	269	275
+Reading edge	270	271
+Reading edge	270	272
+Reading edge	270	275
+Reading edge	270	276
+Reading edge	270	279
+Reading edge	271	272
+Reading edge	271	273
+Reading edge	271	276
+Reading edge	272	273
+Reading edge	272	274
+Reading edge	272	275
+Reading edge	272	276
+Reading edge	272	277
+Reading edge	273	274
+Reading edge	273	275
+Reading edge	273	276
+Reading edge	273	277
+Reading edge	274	275
+Reading edge	274	276
+Reading edge	274	277
+Reading edge	274	278
+Reading edge	274	283
+Reading edge	275	276
+Reading edge	275	277
+Reading edge	275	278
+Reading edge	275	279
+Reading edge	276	277
+Reading edge	276	278
+Reading edge	276	279
+Reading edge	276	280
+Reading edge	277	278
+Reading edge	277	279
+Reading edge	277	280
+Reading edge	277	281
+Reading edge	277	282
+Reading edge	277	283
+Reading edge	278	279
+Reading edge	278	280
+Reading edge	278	281
+Reading edge	278	282
+Reading edge	278	283
+Reading edge	279	280
+Reading edge	279	281
+Reading edge	280	281
+Reading edge	280	282
+Reading edge	281	282
+Reading edge	281	283
+Reading edge	282	283
+Reading edge	282	284
+Reading edge	283	284
+Reading edge	283	285
+Reading edge	284	285
+Reading edge	284	286
+Reading edge	285	286
+Reading edge	285	287
+Reading edge	286	287
+Reading edge	286	288
+Reading edge	287	288
+Reading edge	287	289
+Reading edge	288	289
+Reading edge	288	290
+Reading edge	289	290
+Reading edge	289	291
+Reading edge	290	291
+Reading edge	290	292
+Reading edge	291	292
+Reading edge	291	293
+Reading edge	291	296
+Reading edge	292	293
+Reading edge	292	294
+Reading edge	292	295
+Reading edge	292	296
+Reading edge	292	297
+Reading edge	293	294
+Reading edge	293	295
+Reading edge	293	296
+Reading edge	293	297
+Reading edge	293	298
+Reading edge	294	295
+Reading edge	294	296
+Reading edge	294	297
+Reading edge	294	298
+Reading edge	294	299
+Reading edge	294	306
+Reading edge	294	309
+Reading edge	294	310
+Reading edge	295	296
+Reading edge	295	297
+Reading edge	295	298
+Reading edge	295	299
+Reading edge	295	306
+Reading edge	296	297
+Reading edge	296	298
+Reading edge	296	299
+Reading edge	296	300
+Reading edge	297	298
+Reading edge	297	299
+Reading edge	297	300
+Reading edge	297	301
+Reading edge	297	302
+Reading edge	297	309
+Reading edge	298	299
+Reading edge	298	300
+Reading edge	298	301
+Reading edge	298	302
+Reading edge	298	303
+Reading edge	298	304
+Reading edge	298	305
+Reading edge	298	306
+Reading edge	298	309
+Reading edge	299	300
+Reading edge	299	301
+Reading edge	299	302
+Reading edge	300	301
+Reading edge	300	302
+Reading edge	301	302
+Reading edge	301	303
+Reading edge	301	309
+Reading edge	302	303
+Reading edge	302	304
+Reading edge	303	304
+Reading edge	303	305
+Reading edge	303	308
+Reading edge	303	309
+Reading edge	304	305
+Reading edge	304	306
+Reading edge	304	308
+Reading edge	305	306
+Reading edge	305	307
+Reading edge	305	308
+Reading edge	305	309
+Reading edge	305	314
+Reading edge	305	318
+Reading edge	305	322
+Reading edge	305	325
+Reading edge	306	307
+Reading edge	306	308
+Reading edge	306	309
+Reading edge	306	310
+Reading edge	306	314
+Reading edge	307	308
+Reading edge	307	309
+Reading edge	307	310
+Reading edge	307	311
+Reading edge	307	314
+Reading edge	307	324
+Reading edge	307	325
+Reading edge	307	326
+Reading edge	308	309
+Reading edge	308	310
+Reading edge	308	322
+Reading edge	308	323
+Reading edge	308	324
+Reading edge	308	325
+Reading edge	308	326
+Reading edge	309	310
+Reading edge	309	311
+Reading edge	309	326
+Reading edge	310	311
+Reading edge	310	312
+Reading edge	310	314
+Reading edge	310	325
+Reading edge	310	326
+Reading edge	311	312
+Reading edge	311	313
+Reading edge	311	326
+Reading edge	312	313
+Reading edge	312	314
+Reading edge	312	319
+Reading edge	312	326
+Reading edge	313	314
+Reading edge	313	315
+Reading edge	313	319
+Reading edge	314	315
+Reading edge	314	316
+Reading edge	314	318
+Reading edge	314	319
+Reading edge	314	325
+Reading edge	315	316
+Reading edge	315	317
+Reading edge	315	318
+Reading edge	315	319
+Reading edge	315	320
+Reading edge	316	317
+Reading edge	316	318
+Reading edge	316	319
+Reading edge	316	320
+Reading edge	316	321
+Reading edge	317	318
+Reading edge	317	319
+Reading edge	317	320
+Reading edge	317	321
+Reading edge	317	322
+Reading edge	318	319
+Reading edge	318	320
+Reading edge	318	321
+Reading edge	318	322
+Reading edge	318	325
+Reading edge	319	320
+Reading edge	319	321
+Reading edge	319	322
+Reading edge	319	325
+Reading edge	320	321
+Reading edge	320	322
+Reading edge	321	322
+Reading edge	321	323
+Reading edge	322	323
+Reading edge	322	324
+Reading edge	322	325
+Reading edge	323	324
+Reading edge	323	325
+Reading edge	324	325
+Reading edge	324	326
+Reading edge	325	326
+Maximal cliques = 712
+2	2
+3	52
+4	407
+5	202
+6	49

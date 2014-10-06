@@ -1,0 +1,5 @@
+NumDistr= 1
+Order=  A C D E F G H I K L M N P Q R S T V W Y
+Number= 0
+Mixture= 1
+Alpha= 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 

@@ -1,0 +1,4 @@
+msa_file 	aln.txt
+tree_file tree.txt
+sequence_id 12as
+structure_id 12as:A
